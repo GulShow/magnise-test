@@ -1,6 +1,6 @@
 {
-  "name": "test-magnise",
-  "version": "0.1.0",
+  "name": "magnise-test",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^6.4.5",
